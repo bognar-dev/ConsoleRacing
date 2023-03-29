@@ -1,0 +1,11 @@
+﻿  ConsoleRancing.cpp
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(116,24): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(162,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(163,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(164,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(165,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(195,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(241,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(242,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\ConsoleRacer\ConsoleRancing\ConsoleRancing\ConsoleRancing.cpp(243,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleRancing.vcxproj -> D:\Projects\ConsoleRacer\ConsoleRancing\Debug\ConsoleRancing.exe
